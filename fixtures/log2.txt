@@ -1,0 +1,2 @@
+/articles.html?id=4, 0.12s, Status Code: 200
+/articles.html?id=1, 0.33s, Status Code: 401

@@ -1,0 +1,3 @@
+/articles.html?id=4, 0.12s, Status Code: 200
+/ARTICLES.HTML?id=4, 0.12s, Status Code: 200
+/ARTICLES.HTML?id=4, 0.12s, Status Code: 200

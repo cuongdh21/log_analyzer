@@ -1,0 +1,2 @@
+/articles.html?id=4, 0.12s, Status Code: 200
+/vendor/bootstrap.gif, 0.1s, Status Code: 200
